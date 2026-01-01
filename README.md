@@ -14,10 +14,14 @@ Vérifiez que :
 ⚠️ **Important** : Sur iPhone, fermer l'application est NORMAL si ça bloque
 
 ---
+
 ## 🎬 Démonstration
 
-![The Mind demo](TheMind.mp4)
+▶️ **Lecture directe :**  
+https://raw.githubusercontent.com/tibidi/themind-/main/TheMind.mp4
 
+📦 **Fichier source :**  
+[TheMind.mp4](TheMind.mp4)
 
 ## ÉTAPE 1 – SUPPRIMER L'APPLICATION
 
