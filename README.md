@@ -22,11 +22,9 @@ Vérifiez que :
 1. Appuyez longuement sur l'icône **The Mind**
 2. Un menu apparaît avec plusieurs options
 
-![Options de suppression](Screenshot_20260101-153030.png)
 
 3. Sélectionnez l'option en rouge **"Supprimer l'app"**
 
-![Confirmation](Screenshot_20260101-153051.png)
 
 4. Confirmez la suppression
 5. L'application et ses données seront supprimées
@@ -36,6 +34,12 @@ Vérifiez que :
 ---
 
 ## ÉTAPE 2 – RÉINSTALLER L'APPLICATION
+
+![Options de suppression](Screenshot_20260101-153030.png)
+
+3. Sélectionnez l'option en rouge **"Supprimer l'app"**
+
+![Confirmation](Screenshot_20260101-153051.png)
 
 ![App Store](Screenshot_20260101-153255.png)
 
