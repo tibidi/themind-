@@ -1,7 +1,9 @@
 # GUIDE COMPLET – CONFIGURATION DU POÊLE À GRANULÉS
 **Application The Mind sur iPhone** (Configuration étape par étape)
 
----
+---## 🎬 Démonstration vidéo
+
+[![Voir la vidéo](docs/video-preview.png)](https://drive.google.com/file/d/1s8TCaMcN6aU64UrpkEnqQ-4A_gSh-CN_/view)
 
 ## AVANT DE COMMENCER
 
