@@ -15,26 +15,18 @@ Vérifiez que :
 
 ---
 
-## 🎬 Démonstration
-
-▶️ **Lecture directe :**  
-https://raw.githubusercontent.com/tibidi/themind-/main/TheMind.mp4
-
-📦 **Fichier source :**  
-[TheMind.mp4](TheMind.mp4)
-
 ## ÉTAPE 1 – SUPPRIMER L'APPLICATION
 
-![Menu de suppression](Screenshot_20260101_125638622.png)
+![Menu de suppression](Screenshot_20260101-152931.png)
 
 1. Appuyez longuement sur l'icône **The Mind**
 2. Un menu apparaît avec plusieurs options
 
-![Options de suppression](PXL_20260101_125638622.mp4_snapshot_00.19.png)
+![Options de suppression](Screenshot_20260101-153030.png)
 
 3. Sélectionnez l'option en rouge **"Supprimer l'app"**
 
-![Confirmation](PXL_20260101_125638622.mp4_snapshot_00.22.png)
+![Confirmation](Screenshot_20260101-153051.png)
 
 4. Confirmez la suppression
 5. L'application et ses données seront supprimées
@@ -45,7 +37,7 @@ https://raw.githubusercontent.com/tibidi/themind-/main/TheMind.mp4
 
 ## ÉTAPE 2 – RÉINSTALLER L'APPLICATION
 
-![App Store](PXL_20260101_125638622.mp4_snapshot_00.29.png)
+![App Store](Screenshot_20260101-153255.png)
 
 1. Ouvrez l'**App Store**
 2. Recherchez **"The Mind"**
@@ -58,7 +50,7 @@ https://raw.githubusercontent.com/tibidi/themind-/main/TheMind.mp4
 
 ## ÉTAPE 3 – CRÉER LE COMPTE
 
-![Écran de connexion](PXL_20260101_125638622.mp4_snapshot_04.09.png)
+![Écran de connexion](Screenshot_20260101-153301.png)
 
 1. Sur l'écran d'accueil, vous voyez :
    - Champ **"Adresse e-mail"**
@@ -68,7 +60,7 @@ https://raw.githubusercontent.com/tibidi/themind-/main/TheMind.mp4
 
 2. En bas, appuyez sur **"Créez un n...u utilisate"** (Créez un nouvel utilisateur)
 
-![Remplir les informations](PXL_20260101_125638622.mp4_snapshot_04.20.png)
+![Remplir les informations](Screenshot_20260101-153318.png)
 
 3. Remplissez vos informations :
    - Votre adresse e-mail
@@ -77,19 +69,19 @@ https://raw.githubusercontent.com/tibidi/themind-/main/TheMind.mp4
 
 4. Appuyez sur le bouton orange **"En avant >"**
 
-![Confirmation par e-mail](PXL_20260101_125638622.mp4_snapshot_04.26.png)
+![Confirmation par e-mail](Screenshot_20260101-153330.png)
 
 5. Un message apparaît : **"Vérifiez votre boîte e-mail et confirmez l'e-mail que vous avez reçu pour terminer l'enregistrement"**
 
 6. Appuyez sur **"En avant >"**
 
-![E-mail de confirmation](PXL_20260101_125638622.mp4_snapshot_05.09.png)
+![E-mail de confirmation](Screenshot_20260101-153406.png)
 
 7. Ouvrez votre boîte e-mail
 8. Vous recevrez un message de **"Edilkamin - The mind"**
 9. Cliquez sur le lien **"Verify Email"** dans l'e-mail
 
-![Saisie du mot de passe](PXL_20260101_125638622.mp4_snapshot_05.22.png)
+![Saisie du mot de passe](Screenshot_20260101-153433.png)
 
 10. Entrez le mot de passe pour confirmer votre compte dans l'application
 
@@ -99,14 +91,14 @@ https://raw.githubusercontent.com/tibidi/themind-/main/TheMind.mp4
 
 ## ÉTAPE 4 – CONNECTER LE POÊLE EN BLUETOOTH
 
-![Autorisation Bluetooth](PXL_20260101_125638622.mp4_snapshot_06.22.png)
+![Autorisation Bluetooth](Screenshot_20260101-153439.png)
 
 1. L'application va détecter plus de 50 appareils Bluetooth à proximité
 2. Un message apparaît : **"Plus de 50 appareils détectés. Les informations des appareils Bluetooth peuvent être utilisées pour déterminer votre position et créer votre profil."**
 
 3. **Important** : Appuyez sur **"Autoriser"** (bouton orange)
 
-![Sélection du poêle](PXL_20260101_125638622.mp4_snapshot_06.34.png)
+![Sélection du poêle](Screenshot_20260101-153517.png)
 
 4. L'écran affiche **"IO SONO IL FUOCO"** (JE SUIS LE FEU)
 5. Un message indique : **"Poeles trouve"**
@@ -127,7 +119,7 @@ https://raw.githubusercontent.com/tibidi/themind-/main/TheMind.mp4
 
 ## ÉTAPE 5 – CONFIGURER LE WI-FI
 
-![Recherche Wi-Fi](PXL_20260101_125638622.mp4_snapshot_07.03.png)
+![Recherche Wi-Fi](Screenshot_20260101-153538.png)
 
 1. L'application affiche **"Sélectionnez réseau Wi-Fi"**
 2. Un message indique : **"On n'a pas trouvé un réseau Wifi"**
@@ -137,11 +129,11 @@ https://raw.githubusercontent.com/tibidi/themind-/main/TheMind.mp4
    - **"Procéder sans configurer Wifi"** (bouton orange)
    - **"Connecter au réseau sélectionné"** (bouton jaune)
 
-![Recherche en cours](PXL_20260101_125638622.mp4_snapshot_07.09.png)
+![Recherche en cours](Screenshot_20260101-153646.png)
 
 5. Attendez que l'application détecte les réseaux disponibles
 
-![Liste des réseaux](PXL_20260101_125638622.mp4_snapshot_07.18.png)
+![Liste des réseaux](Screenshot_20260101-153654.png)
 
 6. Une liste de réseaux Wi-Fi apparaît :
    - Livebox-B150
@@ -155,13 +147,13 @@ https://raw.githubusercontent.com/tibidi/themind-/main/TheMind.mp4
 
 8. Appuyez sur **"Connecter au réseau sélectionné"** (bouton jaune en bas)
 
-![Nommer le poêle](PXL_20260101_125638622.mp4_snapshot_07.27.png)
+![Nommer le poêle](Screenshot_20260101-153722.png)
 
 9. Un écran apparaît : **"Insérez le nouveau nom pour le poêle"**
 10. Vous pouvez personnaliser le nom de votre poêle
 11. Appuyez sur **"Ok"**
 
-![Menu de configuration](PXL_20260101_125638622.mp4_snapshot_07.40.png)
+![Menu de configuration](Screenshot_20260101-153843.png)
 
 12. Le menu de paramètres s'affiche avec plusieurs options :
     - Standby
@@ -181,13 +173,13 @@ https://raw.githubusercontent.com/tibidi/themind-/main/TheMind.mp4
 
 13. **Sélectionnez "Configurez WiFi"**
 
-![Mot de passe Wi-Fi](PXL_20260101_125638622.mp4_snapshot_08.52.png)
+![Mot de passe Wi-Fi](Screenshot_20260101-153927.png)
 
 14. Entrez le **mot de passe de votre réseau Wi-Fi**
 15. Le numéro affiché est l'identifiant du poêle
 16. Validez en appuyant sur la **coche bleue** ✓
 
-![Mode de communication](PXL_20260101_125638622.mp4_snapshot_09.44.png)
+![Mode de communication](Screenshot_20260101-154002.png)
 
 17. Un écran **"Méthode de communication pr..."** apparaît
 18. Sélectionnez **"BLUETOOTH"** (le bouton devient blanc quand activé)
@@ -203,7 +195,7 @@ Même procédure :
 
 ## ÉTAPE 6 – CONFIRMATION FINALE
 
-![Écran d'accueil](PXL_20260101_125638622.mp4_snapshot_10.42.png)
+![Écran d'accueil](Screenshot_20260101-161157.png)
 
 ✅ **La configuration est terminée !**
 
@@ -223,7 +215,7 @@ Le poêle est maintenant connecté et prêt à être utilisé !
 
 ## ANNEXE – PROBLÈME DE DÉTECTION BLUETOOTH
 
-![Panneau de contrôle du poêle](PXL_20260101_140650730.jpg)
+![Panneau de contrôle du poêle](PXL_20260101_144422877.MP)
 
 ### ⚠️ SI L'APPLICATION NE TROUVE PAS LE BLUETOOTH DU POÊLE
 
