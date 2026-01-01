@@ -1,5 +1,5 @@
 # GUIDE COMPLET – CONFIGURATION DU POÊLE À GRANULÉS
-**Application The Mind sur iPhone** (Configuration illustrée étape par étape)
+**Application The Mind sur iPhone** (Configuration étape par étape)
 
 ---
 
@@ -17,15 +17,9 @@ Vérifiez que :
 
 ## ÉTAPE 1 – SUPPRIMER L'APPLICATION
 
-![Menu de suppression](Screenshot_20260101-152931.png)
-
 1. Appuyez longuement sur l'icône **The Mind**
 2. Un menu apparaît avec plusieurs options
-
-
 3. Sélectionnez l'option en rouge **"Supprimer l'app"**
-
-
 4. Confirmez la suppression
 5. L'application et ses données seront supprimées
 
@@ -34,8 +28,6 @@ Vérifiez que :
 ---
 
 ## ÉTAPE 2 – RÉINSTALLER L'APPLICATION
-
-![Options de suppression](Screenshot_20260101-153030.png)
 
 1. Ouvrez l'**App Store**
 2. Recherchez **"The Mind"**
@@ -48,38 +40,28 @@ Vérifiez que :
 
 ## ÉTAPE 3 – CRÉER LE COMPTE
 
-![Écran de connexion](Screenshot_20260101-153301.png)
-
 1. Sur l'écran d'accueil, vous voyez :
    - Champ **"Adresse e-mail"**
    - Champ **"Mot de passe"**
    - Option **"Affiche mot de passe"**
    - Lien **"Mot de passe oublié?"**
 
-2. En bas, appuyez sur **"Créez un n...u utilisate"** (Créez un nouvel utilisateur)
-
-![Remplir les informations](Screenshot_20260101-153318.png)
+2. En bas, appuyez sur **"Créez un nouvel utilisateur"**
 
 3. Remplissez vos informations :
    - Votre adresse e-mail
-   - Votre mot de passe (caché avec des points)
+   - Votre mot de passe
    - Cochez la case pour recevoir les actualités (optionnel)
 
 4. Appuyez sur le bouton orange **"En avant >"**
-
-![Confirmation par e-mail](Screenshot_20260101-153330.png)
 
 5. Un message apparaît : **"Vérifiez votre boîte e-mail et confirmez l'e-mail que vous avez reçu pour terminer l'enregistrement"**
 
 6. Appuyez sur **"En avant >"**
 
-![E-mail de confirmation](Screenshot_20260101-153406.png)
-
 7. Ouvrez votre boîte e-mail
 8. Vous recevrez un message de **"Edilkamin - The mind"**
 9. Cliquez sur le lien **"Verify Email"** dans l'e-mail
-
-![Saisie du mot de passe](Screenshot_20260101-153433.png)
 
 10. Entrez le mot de passe pour confirmer votre compte dans l'application
 
@@ -89,18 +71,17 @@ Vérifiez que :
 
 ## ÉTAPE 4 – CONNECTER LE POÊLE EN BLUETOOTH
 
-![Autorisation Bluetooth](Screenshot_20260101-153439.png)
-
 1. L'application va détecter plus de 50 appareils Bluetooth à proximité
+
 2. Un message apparaît : **"Plus de 50 appareils détectés. Les informations des appareils Bluetooth peuvent être utilisées pour déterminer votre position et créer votre profil."**
 
 3. **Important** : Appuyez sur **"Autoriser"** (bouton orange)
 
-![Sélection du poêle](Screenshot_20260101-153517.png)
-
 4. L'écran affiche **"IO SONO IL FUOCO"** (JE SUIS LE FEU)
+
 5. Un message indique : **"Poeles trouve"**
-6. Vous voyez le nom de votre poêle : **"EDILKAMIN_EP_79"**
+
+6. Vous voyez le nom de votre poêle : **"EDILKAMIN_EP_XX"** (XX varie selon votre modèle)
 
 7. **Sélectionnez votre poêle** en appuyant dessus
 
@@ -113,115 +94,13 @@ Vérifiez que :
 
 💡 **C'est normal sur iPhone, vous ne faites rien de mal.**
 
----
+### ⚠️ SI LE POÊLE N'APPARAÎT PAS
 
-## ÉTAPE 5 – CONFIGURER LE WI-FI
-
-![Recherche Wi-Fi](Screenshot_20260101-153538.png)
-
-1. L'application affiche **"Sélectionnez réseau Wi-Fi"**
-2. Un message indique : **"On n'a pas trouvé un réseau Wifi"**
-3. L'icône de chargement tourne
-
-4. Deux options apparaissent :
-   - **"Procéder sans configurer Wifi"** (bouton orange)
-   - **"Connecter au réseau sélectionné"** (bouton jaune)
-
-![Recherche en cours](Screenshot_20260101-153646.png)
-
-5. Attendez que l'application détecte les réseaux disponibles
-
-![Liste des réseaux](Screenshot_20260101-153654.png)
-
-6. Une liste de réseaux Wi-Fi apparaît :
-   - Livebox-B150
-   - Freebox-5D6ACC
-   - Livebox-FB66
-   - Livebox-D250 2.4GHz
-   - Freebox-4F93E2
-   - Livebox-5CD0
-
-7. **Sélectionnez votre réseau Wi-Fi domestique**
-
-8. Appuyez sur **"Connecter au réseau sélectionné"** (bouton jaune en bas)
-
-![Nommer le poêle](Screenshot_20260101-153722.png)
-
-9. Un écran apparaît : **"Insérez le nouveau nom pour le poêle"**
-10. Vous pouvez personnaliser le nom de votre poêle
-11. Appuyez sur **"Ok"**
-
-![Menu de configuration](Screenshot_20260101-153843.png)
-
-12. Le menu de paramètres s'affiche avec plusieurs options :
-    - Standby
-    - Chargement pellet
-    - Date/heure
-    - Unité de mesure
-    - Software
-    - Données
-    - Historique alarmes
-    - Vis sans fin en continu
-    - Capteur niveau pellet
-    - Ajouter nouveau poêle
-    - Effecez enregistrement poê...
-    - **Configurez WiFi**
-    - Méthode de com...
-    - Delete account
-
-13. **Sélectionnez "Configurez WiFi"**
-
-![Mot de passe Wi-Fi](Screenshot_20260101-153927.png)
-
-14. Entrez le **mot de passe de votre réseau Wi-Fi**
-15. Le numéro affiché est l'identifiant du poêle
-16. Validez en appuyant sur la **coche bleue** ✓
-
-![Mode de communication](Screenshot_20260101-154002.png)
-
-17. Un écran **"Méthode de communication pr..."** apparaît
-18. Sélectionnez **"BLUETOOTH"** (le bouton devient blanc quand activé)
-
-### ❗ SI ÇA BLOQUE
-
-Même procédure :
-1. Fermez l'application complètement
-2. Rouvrez-la
-3. Reprenez l'étape
-
----
-
-## ÉTAPE 6 – CONFIRMATION FINALE
-
-![Écran d'accueil](Screenshot_20260101-161157.png)
-
-✅ **La configuration est terminée !**
-
-Vous voyez maintenant l'écran d'accueil de l'application avec :
-- **"Logout"** en haut
-- Message de confirmation : **"Vous êtes connectés en Wifi"**
-- L'icône du poêle (flamme orange) avec le nom **"Maison"**
-- Menu avec 6 options :
-  - **Réglages** ⚙️
-  - **Profil** 👥
-  - **Tutorial** ▶️
-  - **Assistance** 🙋
-
-Le poêle est maintenant connecté et prêt à être utilisé !
-
----
-
-## ANNEXE – PROBLÈME DE DÉTECTION BLUETOOTH
-
-![Panneau de contrôle du poêle](PXL_20260101_144422877.MP)
-
-### ⚠️ SI L'APPLICATION NE TROUVE PAS LE BLUETOOTH DU POÊLE
-
-Si lors de l'**ÉTAPE 4**, l'application ne détecte pas votre poêle en Bluetooth, c'est peut-être que le Bluetooth du poêle n'est plus actif.
+Si l'application ne détecte pas votre poêle en Bluetooth, c'est peut-être que le Bluetooth du poêle n'est plus actif.
 
 **SOLUTION : Réactiver le Bluetooth du poêle**
 
-1. Localisez le **panneau de contrôle** sur votre poêle (photo ci-dessus)
+1. Localisez le **panneau de contrôle** sur votre poêle
 2. Vous verrez :
    - Un bouton rouge ⭕ (en haut)
    - Un écran d'affichage vert (au centre)
@@ -234,6 +113,85 @@ Si lors de l'**ÉTAPE 4**, l'application ne détecte pas votre poêle en Bluetoo
 5. Retournez dans l'application et recommencez la recherche Bluetooth
 
 💡 **Astuce** : Gardez bien les deux boutons enfoncés pendant toute la durée (10 secondes minimum) pour que la réactivation fonctionne.
+
+---
+
+## ÉTAPE 5 – CONFIGURER LE WI-FI
+
+1. L'application affiche **"Sélectionnez réseau Wi-Fi"**
+
+2. Un message indique : **"On n'a pas trouvé un réseau Wifi"**
+
+3. L'icône de chargement tourne
+
+4. Deux options apparaissent :
+   - **"Procéder sans configurer Wifi"** (bouton orange)
+   - **"Connecter au réseau sélectionné"** (bouton jaune)
+
+5. Attendez que l'application détecte les réseaux disponibles
+
+6. Une liste de réseaux Wi-Fi apparaît (Livebox, Freebox, etc.)
+
+7. **Sélectionnez votre réseau Wi-Fi domestique**
+
+8. Appuyez sur **"Connecter au réseau sélectionné"** (bouton jaune en bas)
+
+9. Un écran apparaît : **"Insérez le nouveau nom pour le poêle"**
+
+10. Vous pouvez personnaliser le nom de votre poêle
+
+11. Appuyez sur **"Ok"**
+
+12. Le menu de paramètres s'affiche avec plusieurs options :
+    - Standby
+    - Chargement pellet
+    - Date/heure
+    - Unité de mesure
+    - Software
+    - Données
+    - Historique alarmes
+    - Vis sans fin en continu
+    - Capteur niveau pellet
+    - Ajouter nouveau poêle
+    - Effacez enregistrement poêle
+    - **Configurez WiFi**
+    - Méthode de communication
+    - Delete account
+
+13. **Sélectionnez "Configurez WiFi"**
+
+14. Entrez le **mot de passe de votre réseau Wi-Fi**
+
+15. Validez en appuyant sur la **coche bleue** ✓
+
+16. Un écran **"Méthode de communication préférée"** apparaît
+
+17. Sélectionnez **"BLUETOOTH"** (le bouton devient blanc quand activé)
+
+### ❗ SI ÇA BLOQUE
+
+Même procédure :
+1. Fermez l'application complètement
+2. Rouvrez-la
+3. Reprenez l'étape
+
+---
+
+## ÉTAPE 6 – CONFIRMATION FINALE
+
+✅ **La configuration est terminée !**
+
+Vous voyez maintenant l'écran d'accueil de l'application avec :
+- **"Logout"** en haut
+- Message de confirmation : **"Vous êtes connectés en Wifi"**
+- L'icône du poêle (flamme orange) avec le nom que vous avez choisi
+- Menu avec 6 options :
+  - **Réglages** ⚙️
+  - **Profil** 👥
+  - **Tutorial** ▶️
+  - **Assistance** 🙋
+
+Le poêle est maintenant connecté et prêt à être utilisé !
 
 ---
 
@@ -256,7 +214,26 @@ L'utilisation quotidienne de l'application n'est pas expliquée volontairement. 
 
 **Durée totale : 10-15 minutes**
 
-**💡 En cas de problème Bluetooth** : Appuyez 10 secondes sur les deux boutons du poêle
+**💡 En cas de problème Bluetooth** : Appuyez 10 secondes sur les deux boutons du poêle (rouge + gris)
+
+---
+
+## DÉPANNAGE RAPIDE
+
+### L'application ne trouve pas le poêle
+→ Appuyez 10 secondes sur les deux boutons du panneau de contrôle
+
+### L'application se bloque
+→ Fermez-la complètement et rouvrez-la (c'est normal sur iPhone)
+
+### Le Wi-Fi ne se connecte pas
+→ Vérifiez que vous entrez le bon mot de passe
+→ Assurez-vous d'être sur un réseau 2.4 GHz (pas 5 GHz)
+
+### Je n'ai pas reçu l'e-mail de confirmation
+→ Vérifiez vos spams/courrier indésirable
+→ Attendez quelques minutes
+→ Tentez de renvoyer l'e-mail
 
 ---
 
