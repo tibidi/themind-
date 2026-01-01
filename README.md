@@ -5,7 +5,7 @@
 
 ## 🎬 Démonstration vidéo
 
-[Voir la vidéo](docs/video-preview.png)](https://drive.google.com/file/d/1s8TCaMcN6aU64UrpkEnqQ-4A_gSh-CN_/view)
+[Voir la vidéo](https://drive.google.com/file/d/1s8TCaMcN6aU64UrpkEnqQ-4A_gSh-CN_/view)
 
 ## AVANT DE COMMENCER
 
