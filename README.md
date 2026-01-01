@@ -17,7 +17,7 @@ Vérifiez que :
 
 ## ÉTAPE 1 – SUPPRIMER L'APPLICATION
 
-![Menu de suppression](PXL_20260101_125638622.png)
+![Menu de suppression](Screenshot_20260101_125638622.png)
 
 1. Appuyez longuement sur l'icône **The Mind**
 2. Un menu apparaît avec plusieurs options
