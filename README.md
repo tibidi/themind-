@@ -37,12 +37,6 @@ Vérifiez que :
 
 ![Options de suppression](Screenshot_20260101-153030.png)
 
-3. Sélectionnez l'option en rouge **"Supprimer l'app"**
-
-![Confirmation](Screenshot_20260101-153051.png)
-
-![App Store](Screenshot_20260101-153255.png)
-
 1. Ouvrez l'**App Store**
 2. Recherchez **"The Mind"**
 3. L'application apparaît avec son icône (note : 1,2 étoiles - 273 notes)
